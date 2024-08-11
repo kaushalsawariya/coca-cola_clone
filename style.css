@@ -1,0 +1,273 @@
+.svgimgright{
+    width: 10px;
+    height: 10px;
+}
+body{
+    background-color: rgba(207, 211, 215, 0.655);
+}
+.first .hp{
+    font-size: 18px;
+    font-weight: 500;
+    position:relative;
+    bottom: 250px;
+    right: 250px;
+}
+.first .h{
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.navbar{
+    height: 80px;
+}
+.personsvg{
+    height: 30px;
+    width: 30px;
+    /* position: relative; */
+    left: 20px;
+}
+.nav-item .nav-link{
+    font-weight: 900;
+    font-size: 18px;
+    padding-left: 80px;
+}
+.first{
+    height: 70vh;
+    width: 90vw;
+    margin:30px auto 150px 60px;
+    /* margin-left:60px; */
+    
+    
+}
+.borderimg{
+    border-radius: 20px;
+}
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    /* height: auto; */
+    position: relative;
+    top: 50px;
+    margin-bottom: 100px;
+
+}
+.card{
+    border-radius: 10px;
+}
+.custbtn{
+    position: relative;
+    top: 50px;
+}
+.card-title{
+    font-weight: 900;
+    font-size: 25px;
+    text-align: center;
+}
+.btn{
+    position: relative;
+    left: 10rem;
+    padding:10px 20px 10px 20px;
+}
+.card-text{
+    font-weight: 600;
+}
+#whatnew{
+    position: relative;
+    /* top: 50px; */
+    text-align:center;
+    font-weight: 900;
+    font-size: 50px;
+}
+.three{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 70px;
+}
+.cardlink{
+    font-size: 20px;
+    font-style: none;
+    color: black;
+    font-weight: 700;
+}
+.cardlinkadj{
+    position: relative;
+    top: 100px;
+}
+.four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 150px;
+}
+.fourbox{
+    height: 70vh;
+    width: 70wv;
+    background-color: white;
+    border-radius: 10px;
+}
+.fourtext{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 10;
+    padding: 40px;
+    position: relative;
+    left: 60px;
+    width: 450px;
+    bottom: 30px;
+}
+.fourtext button{
+    border-radius: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    background-color: white;
+    border: 2px solid black;
+    width: 250px;
+    align-self: center;
+}
+.fourtext h4 {
+    font-weight: 700;
+    font-size: 35px;
+}
+.fourtext p{
+    font-weight: 500;
+    font-size: 18px;
+    position: relative;
+    bottom: 50px;
+}
+
+.five{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 60px;
+    margin-bottom: 40px;
+}
+.fivebox{
+    height: 70vh;
+    width: 70wv;
+    background-color: white;
+    border-radius: 10px;
+}
+.fivetext{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 10;
+    padding: 40px;
+    width: 450px;
+    position: relative;
+    bottom: 70px;
+    right: 50px;
+}
+.fivetext button{
+    border-radius: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    background-color: white;
+    border: 2px solid black;
+    width: 250px;
+    align-self: center;
+}
+.fivetext h4 {
+    font-weight: 700;
+    font-size: 35px;
+}
+.fivetext p{
+    font-weight: 500;
+    font-size: 18px;
+    position: relative;
+    bottom: 50px;
+}
+.six{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    width: 70vw;
+    position: relative;
+    top: 30px;
+    left: 180px;
+    margin-bottom: 50px;
+}
+.six img {
+    height: 103.7px;
+    width: 270px;
+}
+.six .box{
+    
+    background-color: white;
+    height:318px;
+    width: 318px;
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.seven{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-direction: column;
+    height: 150px;
+    margin-bottom: 80px;
+}
+.seven button{
+    padding: 5px 120px 5px 120px;
+    border-radius: 18px;
+    font-weight: 700;
+    color: black;
+}
+.seven p{
+    font-size: 18px;
+    font-weight: 500;
+}
+footer img{
+    height: 40px;
+    width: 249px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    
+}
+footer {
+    background-color: black;
+    height: 100vh;
+    color: white;
+
+}
+hr{
+    background-color: white;
+    width: 85vw;
+}
+footer .img{
+    height: 90px;
+}
+footer .rule{
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+footer .box1{
+    display: flex;
+    justify-content: space-between;
+}
+footer .heading{
+    color: gray;
+    position: relative;
+    bottom: 10px;
+}
+footer span{
+    cursor: pointer;
+}
+footer a{
+    color: white;
+    position: relative;
+    left: 850px;
+    font-style: none;
+}
